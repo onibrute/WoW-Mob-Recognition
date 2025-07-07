@@ -130,9 +130,11 @@ All in-game content, mob names, and visuals are property of Blizzard Entertainme
 
 No game assets are redistributed, and all dataset images are user-generated via screenshots or Wowhead's public 3D viewer.
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-Robert-Constantin Preda  
+Robert-Constantin Preda
+Dragoș-Gabriel Petrescu
+Dănuț-Cristian Rădulescu
 Faculty of Automation, Computers and Electronics, University of Craiova  
 Class of 2025 – Bachelor in Automation and Applied Informatics
 
