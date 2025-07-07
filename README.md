@@ -58,7 +58,7 @@ This application attempts to answer that by:
             +------------------------------+
             | Loot Lookup & UI Display    |
             +------------------------------+
-
+            
 ## 📸 Screenshots
 
 ### Detection in Game
@@ -66,11 +66,12 @@ This application attempts to answer that by:
 
 ### Prediction & UI
 ![UI Screenshot](assets/ui.png)  
-![Console Output](assets/test_output.png)
+![Console Output](assets/test_ouput.png)
 
 ### Model Performance
 ![Training Accuracy & Loss](assets/training_accuracy.png)  
 ![Epoch Comparison](assets/compare.png)
+
 
 ## 🧠 Model Details
 
@@ -135,6 +136,7 @@ No game assets are redistributed, and all dataset images are user-generated via 
 Robert-Constantin Preda
 Dragoș-Gabriel Petrescu
 Dănuț-Cristian Rădulescu
+
 Faculty of Automation, Computers and Electronics, University of Craiova  
 Class of 2025 – Bachelor in Automation and Applied Informatics
 
