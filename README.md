@@ -62,20 +62,20 @@ This application attempts to answer that by:
 ## 📸 Screenshots
 
 ### Detection in Game
-| ![Detection 1](assets/detection_ingame1.png) | ![Detection 2](assets/detection_ingame2.png) |
+| ![Detection 1](assets/detection1.png) | ![Detection 2](assets/detection2.png) |
 
 ### Prediction & UI
 ![UI Screenshot](assets/ui.png)  
-![Console Output](assets/output_test.png)
+![Console Output](assets/test_output.png)
 
 ### Model Performance
-![Training Accuracy & Loss](assets/training_accuracy_loss.png)  
-![Epoch Comparison](assets/accuracy_compare.png)
+![Training Accuracy & Loss](assets/training_accuracy.png)  
+![Epoch Comparison](assets/compare.png)
 
 ## 🧠 Model Details
 
-Architecture: EfficientNetB0 (pretrained on ImageNet)  
-Fine-tuning: Last 10 layers unfrozen
+Architecture: EfficientNetB0 (pre-trained on ImageNet)  
+Fine-tuning: The last 10 layers unfrozen
 
 Training:
 - Epochs: 15
@@ -114,7 +114,7 @@ python train.py
 
 .
 ├── train.py             # Training pipeline  
-├── test.py              # Evaluation / confusion matrix  
+├── test.py              # Evaluation/confusion matrix  
 ├── detect.py            # Inference on input image  
 ├── loot.py              # Loot dictionary logic  
 ├── model/               # Saved model weights  
@@ -126,7 +126,7 @@ python train.py
 ## ❗ Legal & Ethical Disclaimer
 
 This project is intended for educational and experimental purposes only.  
-All in-game content, mob names, and visuals are property of Blizzard Entertainment and are referenced here solely for non-commercial demonstration.
+All in-game content, mob names, and visuals are the property of Blizzard Entertainment and are referenced here solely for non-commercial demonstration.
 
 No game assets are redistributed, and all dataset images are user-generated via screenshots or Wowhead's public 3D viewer.
 
