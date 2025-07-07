@@ -95,7 +95,7 @@ Dataset:
 
 ### 1. Clone the repo
 
-git clone https://github.com/yourusername/wow-mob-recognition.git  
+git clone https://github.com/onibrute/WoW-Mob-Recognition
 cd wow-mob-recognition
 
 ### 2. Install dependencies
