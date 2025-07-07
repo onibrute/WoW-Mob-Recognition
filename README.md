@@ -142,6 +142,6 @@ Class of 2025 – Bachelor in Automation and Applied Informatics
 
 ## 🤝 Contributions
 
-Pull requests and forks are welcome for model improvement, dataset expansion, or adding real-time webcam detection.
+Pull requests and forks are welcome for model improvement, dataset expansion.
 
 If you like the project, consider starring it or sharing your results.
