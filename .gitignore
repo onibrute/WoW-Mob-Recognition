@@ -1,5 +1,5 @@
 # Ignore wrongly named folders
-assests/
+assets/
 
 # Python cache and build folders
 __pycache__/
