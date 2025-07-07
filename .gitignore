@@ -1,0 +1,23 @@
+# Ignore wrongly named folders
+assests/
+
+# Python cache and build folders
+__pycache__/
+*.pyc
+build/
+dist/
+logs/
+*.log
+
+# VS Code / JetBrains
+.vscode/
+.idea/
+
+# Model weights / big files (optional)
+*.h5
+*.ckpt
+*.tflite
+
+# OS-generated
+.DS_Store
+Thumbs.db
