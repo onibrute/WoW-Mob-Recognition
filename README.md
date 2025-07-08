@@ -9,7 +9,7 @@ The project combines machine learning, image preprocessing, and in-game logic ma
 
 ## 🎮 Context and Concept
 
-World of Warcraft features thousands of mobs (non-playable characters or monsters) with diverse appearances and loot tables. Recognizing them visually from screenshots is a human skill — but can it be taught to an AI?
+World of Warcraft features thousands of mobs (non-playable characters or monsters) with diverse appearances and loot tables. Recognizing them visually from screenshots is a human skill, but can it be taught to an AI?
 
 This application attempts to answer that by:
 - Building a dataset of images using 3D models from Wowhead.com
@@ -21,7 +21,7 @@ This application attempts to answer that by:
 
 - Mob Recognition using a fine-tuned EfficientNetB0 model
 - Image Capture & Inference via drag-and-drop or screenshot input
-- Loot Display based on predicted mob, shown with color-coded rarity
+- Loot Display based on the predicted mob, shown with color-coded rarity
 - Augmented Dataset (rotation, flipping, contrast)
 - Console output + GUI overlay
 - Custom loot mapping via dictionary lookup
@@ -33,7 +33,7 @@ This application attempts to answer that by:
 2. Preprocessing: Resize to 224x224, normalize pixel values
 3. Model Inference: EfficientNetB0 returns class probabilities
 4. Postprocessing:
-   - Identify most likely mob
+   - Identify the most likely mob
    - Map mob to predefined loot list
    - Display loot in UI overlay or print to console
 
